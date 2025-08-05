@@ -22,15 +22,6 @@ A fully functional chessboard built using **HTML, CSS, JavaScript, and jQuery**,
 
 ---
 
-## 📸 Screenshot
-
-![<img width="537" height="561" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/56360001-1802-49c4-9c3b-c9c2bce81163" />
-](
-)  
-<sub>Initial board setup with black and white pieces.</sub>
-
----
-
 ## 🧩 Tech Stack
 
 | Layer     | Tech Used                      |
@@ -38,7 +29,6 @@ A fully functional chessboard built using **HTML, CSS, JavaScript, and jQuery**,
 | Structure | HTML5                          |
 | Style     | CSS3 (with animations)         |
 | Logic     | JavaScript + jQuery (v3.2.1)   |
-| Assets    | PNG images of chess pieces     |
 
 ---
 
