@@ -1,6 +1,6 @@
 # ♟️ JavaScript Chess Game by Aashish
 
-A fully functional chessboard built using **HTML, CSS, JavaScript, and jQuery**, allowing two players to play standard chess with an intuitive UI and real-time turn switching. This is a passion project focused on learning DOM manipulation, visual layout, and basic game logic handcrafted from scratch.
+A dynamic chessboard built using HTML, CSS, JavaScript, and jQuery, allowing two players to engage in a game of chess with an intuitive UI. This is a passion project focused on learning DOM manipulation and implementing game logic from scratch.
 
 > ⚠️ This project is not using a pre-built chess engine. It’s a fully **manual layout** with custom logic and creativity at its core.
 
@@ -8,7 +8,8 @@ A fully functional chessboard built using **HTML, CSS, JavaScript, and jQuery**,
 
 ## 🎮 Live Demo
 
-🔗 [[Click here to play the Chess Game](https://chess-game-indol-nine.vercel.app/)](#)  
+🔗 [[Click here to play the Chess Game](https://chess-game-indol-nine.vercel.app/)] 
+
 ---
 
 ## 🧠 Features
@@ -22,6 +23,13 @@ A fully functional chessboard built using **HTML, CSS, JavaScript, and jQuery**,
 
 ---
 
+## ❗ Current Limitations
+This project is currently under development. The primary limitation is:
+
+The king can be captured. The game does not yet implement check, checkmate, or stalemate rules. This is the next major feature I plan to fix and implement.
+
+---
+
 ## 🧩 Tech Stack
 
 | Layer     | Tech Used                      |
@@ -30,11 +38,4 @@ A fully functional chessboard built using **HTML, CSS, JavaScript, and jQuery**,
 | Style     | CSS3 (with animations)         |
 | Logic     | JavaScript + jQuery (v3.2.1)   |
 
----
 
-## 🚀 Getting Started
-
-1. **Clone the repo**
-   ```bash
-   git clone https://github.com/yourusername/chess-game-aashish.git
-   cd chess-game-aashish
